@@ -1,0 +1,13 @@
+{
+  "name": "kemah-besar-kwartir-ranting-durai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web App Penilaian Juri dan Live Score Kemah Besar Kwartir Ranting Durai",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test --test-concurrency=1 tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
